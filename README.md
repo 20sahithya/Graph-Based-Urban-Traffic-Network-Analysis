@@ -1,4 +1,4 @@
-# Graph-Based-Urban-Traffic-Network-Analysis
+# graph-based-Urban-Traffic-Network-Analysis
 
 This project focuses on analyzing and visualizing road networks as graphs. By leveraging Python's powerful libraries like NetworkX, PyTorch, and matplotlib, the project explores the properties of nodes, edges, and the overall network structure. 
 
